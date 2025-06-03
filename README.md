@@ -68,13 +68,10 @@ Criamos um conceito de sistema visual que apresenta a curva do nível do rio ao 
 
 Esse painel pode ser alimentado por sensores físicos ou dados de API, aplicando nossa equação para prever os níveis futuros.
 
-### Imagens do Protótipo
+### Imagem do Protótipo
 
-![Gráfico do Nível do Rio](sandbox:/mnt/data/nivel_rio_grafico.png)
+![image](https://github.com/user-attachments/assets/90be2fc5-5cf8-46fc-b10a-3f5ed5872a7f)
 
-![Painel de Alerta](sandbox:/mnt/data/painel_alerta_classificado.png)
-
-![Gráfico Polinomial](sandbox:/mnt/data/funcao_polinomial_nivel_rio.png)
 
 ---
 
