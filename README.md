@@ -14,18 +14,18 @@ A cidade escolhida foi **Santo André (SP)**, conhecida por enfrentar enchentes 
 
 Coletamos e simulamos os seguintes dados de nível do rio:
 
-| Dia | Nível (m) |
-| --- | --------- |
-| 1   | 0.5       |
-| 2   | 0.9       |
-| 3   | 1.4       |
-| 4   | 1.9       |
-| 5   | 2.3       |
-| 6   | 2.7       |
-| 7   | 2.9       |
-| 8   | 2.8       |
-| 9   | 2.4       |
-| 10  | 2.0       |
+| Dia | Nível (m)               |
+| --- | ---------               |
+| 1   | 0.5                     |
+| 2   | 0.9                     |
+| 3   | 1.4                     |
+| 4   | 1.9                     |
+| 5   | 2.3                     |
+| 6   | 2.7                     |
+| 7   | 2.9                     |
+| 8   | 2.8                     |
+| 9   | 2.4                     |
+| 10  | 2.0                     |
 
 ---
 
